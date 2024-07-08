@@ -2,5 +2,6 @@
 
 
 An example package for the workshop.
-change
 
+
+this is a new change.
